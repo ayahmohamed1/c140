@@ -20,7 +20,7 @@ const giftData: Record<string, GiftData> = {
     envelopeImage: "/images/envelope-placeholder.png", 
     cardMessage: "Check out this awesome surprises for YOU!",
     // مسار صورة الطفل/صاحبة العيد ميلاد
-    birthdayImage: "/images/kid-placeholder.jpg", 
+    birthdayImage: "/images/kid-placeholder-transparent.png",
     birthdayTitle: "Happy birthday Youhyy",
     birthdayText: "I really wanna thank you for every time you tried to be there for me and every time I got upset and you did your best to make things better. We've been through so many difficult times together, but the important thing is that we always find a way to keep going. I love all the moments and memories we've shared, the good ones and even the bad ones. Thanks for putting up with my terrible gameplay and never giving up on playing with me. I hope you know how much I appreciate having you in my life.  I hope this year brings you  everything you wish for. I hope we keep making memories, laughing, annoying each other and being there for one another. And most importantly, I hope we stay in each other's lives until we're old. Can't wait to see you become the engineer of the future 💞",
     // مسارات الـ 4 صور
